@@ -1,5 +1,8 @@
 # Face_Detection
 
+If you want to learn practically Visit our YouTube channel
+https://youtu.be/7YdwNWafrrw
+
 Link to download python
 https://www.python.org/downloads/release/python-377/
 
