@@ -1,6 +1,6 @@
 # Face_Detection
 
-If you want to learn practically Visit our YouTube channel
+If you want to learn step wise visit our YouTube channel
 https://youtu.be/7YdwNWafrrw
 
 Link to download python
